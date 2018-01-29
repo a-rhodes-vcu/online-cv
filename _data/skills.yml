@@ -8,13 +8,16 @@
   name: Visual Studio
   level: 85%
 - skill:
+  name: SQL
+  level: 75%
+- skill:
   name: C# and Java
   level: 70%
 - skill:
-  name: Javascript
-  level: 50%
-- skill:
   name: Angular
   level: 60%
+- skill:
+  name: Javascript
+  level: 50%
 
 
