@@ -1,5 +1,5 @@
 - skill:
-  name: Python
+  name: Python & Pycharm
   level: 98%
 - skill:
   name: Django
@@ -8,14 +8,17 @@
   name: BLAST, BLASTP, HHpred, Clustal
   level: 98%
 - skill:
-  name: R
+  name: SYBYL-X
+  level: 80%
+- skill:
+  name: R & R Studio
   level: 70%
 - skill:
   name: HTML5 & CSS
   level: 70%
 - skill:
-  name: SQL and Relational Databases
-  level: 75%
+  name: SQL
+  level: 70%
 - skill:
   name: Visual Studio
   level: 60%
@@ -28,9 +31,6 @@
 - skill:
   name: Angular
   level: 60%
-- skill:
-  name: Javascript
-  level: 50%
 - skill:
   name: Javascript
   level: 50%
