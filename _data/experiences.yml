@@ -22,15 +22,20 @@ Manually launch an automated test sweep."
   company: Peter Uetz Lab
   details: 'Worked in a team designing and implementing a three tiered web application. Defined, communicated, presented goals, and metrics to team and implemented stakeholder feedback to ensure all deliverables were provided.<a href="http://www.reptiledb.tk/about.html" target="http://www.reptiledb.tk/about.html">Project can be viewed here</a>'
 - experience:
-  role: Teacher’s Assistant for Introduction to Physical Implementation of Databases
+  role: Teacher’s Assistant for Physical Implementation of Databases Course
   time: August 2016 - May 2017
-  company: VCU HS
+  company: VCU
   details: "Reinforce concepts of basic searching and sorting algorithm design, and advanced data structures including, hashing and B-trees"
 - experience:
   role: Teacher’s Assistant for Scientific Programming in Python
   time: January 2016
-  company: VCU HS
+  company: VCU
   details: "Provided support and guidance in a week-long introduction to  programming and pipeline development to aid faculty, staff, and students in their research"
+- experience:
+  role: Travel Registered Nurse
+  time: January 2012 - May 2017
+  company: VCU HS
+  details: ""
 - experience:
   role: Cardiac Registered Nurse
   time: August 2009 - January 2012
