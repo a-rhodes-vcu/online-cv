@@ -172,7 +172,7 @@ p {
   margin-bottom: 20px;
 }
 .main-wrapper .section-title .fa {
-  width: 300px;
+  width: 500px;
   height: 30px;
   margin-right: 8px;
   display: inline-block;
@@ -268,7 +268,7 @@ p {
     width: inherit;
   }
   .main-wrapper {
-    padding: 30px;
+    padding: 50px;
   }
   .main-wrapper .time {
     position: static;
