@@ -1,6 +1,9 @@
 - skill:
   name: Python & Django
   level: 98%
+ - skill:
+  name: R
+  level: 98%
 - skill:
   name: HTML5 & CSS
   level: 95%
