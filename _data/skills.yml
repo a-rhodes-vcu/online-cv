@@ -2,17 +2,19 @@
   name: Python & Django
   level: 98%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
   name: HTML5 & CSS
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Visual Studio
   level: 85%
 - skill:
-  name: Sketch & Photoshop
+  name: C# and Java
+  level: 70%
+- skill:
+  name: Javascript
+  level: 50%
+- skill:
+  name: Angular
   level: 60%
+
+
