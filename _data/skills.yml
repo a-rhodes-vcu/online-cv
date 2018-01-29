@@ -1,26 +1,41 @@
 - skill:
-  name: Python & Django
+  name: Python
+  level: 98%
+- skill:
+  name: Django
+  level: 98%
+- skill:
+  name: BLAST, BLASTP, HHpred, Clustal
   level: 98%
 - skill:
   name: R
-  level: 98%
+  level: 70%
 - skill:
   name: HTML5 & CSS
-  level: 95%
+  level: 70%
 - skill:
-  name: Visual Studio
-  level: 85%
-- skill:
-  name: SQL
+  name: SQL and Relational Databases
   level: 75%
 - skill:
-  name: C# and Java
-  level: 70%
+  name: Visual Studio
+  level: 60%
+- skill:
+  name: Java
+  level: 60%
+- skill:
+  name: C# 
+  level: 60%
 - skill:
   name: Angular
   level: 60%
 - skill:
   name: Javascript
+  level: 50%
+- skill:
+  name: Javascript
+  level: 50%
+- skill:
+  name: Bash
   level: 50%
 
 
