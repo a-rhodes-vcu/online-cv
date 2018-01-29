@@ -6,18 +6,18 @@ baseurl: '/online-cv' #change it according to your repository name
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
-#style: styles-4
+style: styles-4
 #style: styles-5
 #style: styles-6
 
 #Profile information
 name: Alexandrea Stylianou
-tagline: Nurse =  Bioinformaticist = Scientific Programmer
+tagline: Nurse \n Bioinformaticist \n Scientific Programmer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: ''
 
 #sidebar links
-email: a.rhodes8947@gmail.com
+email: styalex3@gmail.com
 linkedin: alex-stylianou
 github: a-rhodes-vcu
 #Update all the sections by editing the files inside _data folder.
