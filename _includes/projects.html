@@ -1,6 +1,7 @@
 {% if site.data.projects %}
 <section class="section projects-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>Academic Projects!!!!!!!!!!!!!!!!!</h2>
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Academic Projects!!</h2>
 
   {% for intro in site.data.projects %}
   <div class="intro">
@@ -8,27 +9,17 @@
   </div><!--//intro-->
   {% endfor%}
 
-  
-{% for experience in site.data.projects %}
-  <div class="item">
+  {% for project in site.data.projects %}
+    <div class="item">
 
-    <div class="meta">
+      <span class="project-title"><a>{{ project.title }}</a></span>
 
-      <div class="upper-row">
-        
-        <h2 class="project-title">{{ project.title }}</h2>
-   
-      </div><!--//upper-row-->
-
-     
-
-    </div><!--//meta-->
-
-    {% if project.tagline %}
-    <div class="details">
+      {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
-    </div><!--//details-->
-    {% endif %}
+      {% endif %}
 
-  </div><!--//item-->
-{% endfor %}
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
