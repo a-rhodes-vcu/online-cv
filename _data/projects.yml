@@ -1,24 +1,36 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: ""
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Project Manager | BNFO 621. Business and Entrepreneurship Essentials for Life Scientists
+  link: ""
+  tagline: "Worked within a group of two as project managers tasked with upgrading a laboratory to a Biosafety Level III laboratory in an effort to put a bid for a contract with the Department of Defense (DoD) in order to analyze bioterrorism pathogens. The upgrades include training personnel to meet the standard operating procedures of a BSL III laboratory, the requirements of the DoD, and obtain the necessary equipment. Upon receiving the contract from the DoD the laboratory is not only responsible for analyzing these dangerous pathogens, but also for submitting a formal report of findings to the DoD. Our goal is to evaluate the timeline of the upgrade, the costs of the upgrades, and determine if this is a financially sound investment. The cost of upgrading the lab to be applicable for the contact was determined to be $28,216.83. This total was derived from the summation of the disposable lab coats ($22.99), disposable face shields ($279.99), and biological safety cabinet (BSC) class II ($6,183.09). This also includes the salary of the employees during their training."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Dynamic Programming: Hidden Markov Model | BNFO 591. Intergrated Bioinformatics II 
+  link: ""
+  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, and error handling. The goal of this project was to implement Forward, Backward, Posterior and Viterbi algorithms and a log float class in order to identify Pribnrow box boundary regions of a DNA sequence."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Detect Pathogenicity Islands | BNFO 601. Integrated Bioinformatics
+  link: ""
+  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands."
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: Implementing Cluster Analysis in Python | BNFO 601. Integrated Bioinformatics
+  link: ""
+  tagline: "The program used in our analysis was developed in Python 3.0. Based on user preference, our algorithm implements Pearson’s Correlation Coefficient, or Euclidean distance as measures for grouping genes.
+ <br>
+The program is capable of implementing average linkage clustering, complete linkage clustering, and single linkage clustering. The method defining average linkage clustering takes two gene vectors as arguments. The values in the vectors are added together then divided by the number of vectors. The single linkage method takes two vectors, and if the Pearson correlation coefficient is larger than a negative threshold, those two vectors will get paired together. Finally, complete linkage clustering pairs two vectors if they are smaller than a positive threshold they form a pair.
+<br>
+Our implementation of this program clusters gene pairs into subtrees. These subtrees are represented by nodes, which holds a left child, and a right child. Every iteration of the program updates the left child, right child and subtrees based on the Pearson’s Correlation Coefficient. At the end of the implementation one root node contains all the subtrees, which contains all the gene pairs. "
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Protein Threading | BNFO 601. Integrated Bioinformatics
+  link: ""
+  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, and file handling. The goal of this project was to determine the most conserved regions of DNA gyrase inhibitors and determine what three amino acids are conserved of that region. "
+- project:
+  title: Convert E. coli GenPept file to FASTA file | BNFO 601. Integrated Bioinformatics
+  link: ""
+  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic, regular expressions, and file handling. The goal of this project was to convert a GenPept file to a FASTA file. "
+- project:
+  title: Functional Annotation of Phage Proteins | MEDC 670. Advanced Molecular Modeling Theory and Practice
+  link: ""
+  tagline: "Uncovering phage protein functions allows the evolution of phages to be better understood, allows classification to be done with more accuracy, and allows furthering the research in protein-protein interactions among the virus and its host. To uncover protein functions there are several techniques that were implemented: identification of homologs within protein domains, and prediction of protein folding to study their effects on the host. SYBYL-X, Blast P, HHpred, and MODELLER5 was used to study homology and predict protein folding. After modeling normalized dope scores were used to access the homology models."
+
