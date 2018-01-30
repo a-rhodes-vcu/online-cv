@@ -13,8 +13,3 @@
   title: Detect Pathogenicity Islands | BNFO 601. Integrated Bioinformatics
   link: "#"
   tagline: '<br>This project demonstrates proficient python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands.'
-- project:
-  title: Implementing Cluster Analysis in Python | BNFO 601. Integrated Bioinformatics
-  link: "#"
-  tagline: '<br>The program used in our analysis was developed in Python 3.0. Based on user preference, our algorithm implements Pearson’s Correlation Coefficient, or Euclidean distance as measures for grouping genes. The program is capable of implementing average linkage clustering, complete linkage clustering, and single linkage clustering. The method defining average linkage clustering takes two gene vectors as arguments. The values in the vectors are added together then divided by the number of vectors. The single linkage method takes two vectors, and if the Pearson correlation coefficient is larger than a negative threshold, those two vectors will get paired together. Finally, complete linkage clustering pairs two vectors if they are smaller than a positive threshold they form a pair. Our implementation of this program clusters gene pairs into subtrees. These subtrees are represented by nodes, which holds a left child, and a right child. Every iteration of the program updates the left child, right child and subtrees based on the Pearson’s Correlation Coefficient. At the end of the implementation one root node contains all the subtrees, which contains all the gene pairs.'
-
