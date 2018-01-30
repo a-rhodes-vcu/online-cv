@@ -5,7 +5,7 @@
   title: '<h5>Project Manager | BNFO 621. Business and Entrepreneurship Essentials for Life Scientists</h5>'
   tagline: "Tasked with upgrading a laboratory. A triple constraint was used to evaluate the restrictions, a gantt chart was used to evaluate the timeline, and a budget was made to estimate the costs of the upgrade and to determine if this was a financially sound investment."
 - project:
-  title: '<h5>Hidden Markov Model | BNFO 591 ntegrated Bioinformatics II</h5>'
+  title: '<h5>Hidden Markov Model | BNFO 591 Integrated Bioinformatics II</h5>'
   tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, and error handling. The goal of this project was to implement Forward, Backward, Posterior and Viterbi algorithms and a log float class in order to identify Pribnrow box boundary regions of a DNA sequence."
 - project:
   title: '<h5>Detect Pathogenicity Islands | BNFO 601. Integrated Bioinformatics</h5>'
