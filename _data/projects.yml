@@ -14,4 +14,4 @@
 - project:
   title: Detect Pathogenicity Islands | BNFO 601. Integrated Bioinformatics
   link: "#"
-  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands."
+  tagline: '<br>This project demonstrates proficient python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands.'
