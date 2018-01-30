@@ -5,10 +5,10 @@
   name: Windows Development Environment
   level: 100%
 - skill:
-  name: Python and Django
+  name: Python & Django
   level: 98%
 - skill:
-  name: BLAST, BLASTP, HHpred, Clustal
+  name: BLAST, HHpred & Clustal
   level: 98%
 - skill:
   name: R & R Studio
