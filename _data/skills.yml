@@ -20,13 +20,10 @@
   name: SQL
   level: 70%
 - skill:
-  name: Visual Studio
+  name: Visual Studio, Java & C#
   level: 60%
 - skill:
-  name: Java & C#
-  level: 60%
-- skill:
-  name: Javascript & Angular
+  name: JavaScript & Angular
   level: 60%
 - skill:
   name: Bash
