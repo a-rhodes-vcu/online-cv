@@ -7,28 +7,28 @@ Demonstrate a deep understanding of the business objectives of stakeholders.
 Manage relationships with end users by attending client calls and visiting client sites. 
 Trusted to lead scrum ceremonies and groom product backlog items when called upon.
 Improve efficiency of existing test code, resulting in maintainable code in fewer lines.
-Create and implement automated and manual test case scenarios against the product requirement. 
-Create and implement system level, unit, regression, upgrade, and tests.
-Identify, communicate, and resolve software defects with detailed and thorough documentation.
-Manually launch an automated test sweep."
+Create and implement automated tests in C#, Visual Studio and Git
+Create and implement manual test case scenarios against the product requirement. 
+Execute system level, unit, regression and upgrade tests.
+Identify, communicate, and resolve software defects with detailed and thorough documentation."
 - experience:
   role: Bioinformatic Programmer
   time: January 2017 - August 2017
   company: Peter Uetz Lab
-  details: 'Developed a custom tool to implement language identification and map data between two data files. Results of the analysis was published, <a href="http://dx.doi.org/10.11646/zootaxa.4375.2.5" target="http://dx.doi.org/10.11646/zootaxa.4375.2.5">DOI</a>'
+  details: 'Developed a custom tool using Python to implement language identification and map data between two data files. Results of the analysis was published, <a href="http://dx.doi.org/10.11646/zootaxa.4375.2.5" target="http://dx.doi.org/10.11646/zootaxa.4375.2.5">DOI</a>'
 - experience:
   role: Project Manager and Front End Developer
   time: January 2012 - May 2017
   company: Peter Uetz Lab
-  details: 'Worked in a team designing and implementing a three tiered web application. Defined, communicated, presented goals, and metrics to team and implemented stakeholder feedback to ensure all deliverables were provided.<a href="http://reptiledb.ga" target="http://reptiledb.ga">Project can be viewed here.</a>'
+  details: 'Worked in a team designing and implementing a three tiered web application using Python, HTML, CSS, JavaScript and Django. Defined, communicated, presented goals, and metrics to team and implemented stakeholder feedback to ensure all deliverables were provided.<a href="http://reptiledb.ga" target="http://reptiledb.ga">Project can be viewed here.</a>'
 - experience:
   role: Teacher’s Assistant for Implementation of Databases Course
   time: August 2016 - May 2017
   company: VCU
-  details: "Reinforce concepts of basic searching and sorting algorithm design, and advanced data structures including, hashing and B-trees"
+  details: "Reinforce concepts of basic searching and sorting algorithm design, and advanced data structures including, hashing and B-trees in Python and Java"
 - experience:
   role: Teacher’s Assistant for Scientific Programming in Python
   time: January 2016
   company: VCU
-  details: "Provided support and guidance in a week-long introduction to  programming and pipeline development to aid faculty, staff, and students in their research"
+  details: "Provided support and guidance in a week-long introduction to  programming and pipeline development in Python to aid faculty, staff, and students in their research"
 
