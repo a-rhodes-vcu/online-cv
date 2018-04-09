@@ -6,16 +6,16 @@
   tagline: "Tasked with upgrading a laboratory. A triple constraint was used to evaluate the restrictions, a gantt chart was used to evaluate the timeline, and a budget was made to estimate the costs of the upgrade and to determine if this was a financially sound investment."
 - project:
   title: '<h5>Hidden Markov Model | BNFO 591. Integrated Bioinformatics II</h5>'
-  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, and error handling. The goal of this project was to implement Forward, Backward, Posterior and Viterbi algorithms and a log float class in order to identify Pribnrow box boundary regions of a DNA sequence."
+  tagline: "This project demonstrates proficient Python skills that include object oriented programming, logic statements, and error handling. The goal of this project was to implement Forward, Backward, Posterior and Viterbi algorithms and a log float class in order to identify Pribnrow box boundary regions of a DNA sequence."
 - project:
   title: '<h5>Detect Pathogenicity Islands | BNFO 601. Integrated Bioinformatics</h5>'
-  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands."
+  tagline: "This project demonstrates proficient Python skills that include object oriented programming, logic statements, error handling, and statistical analysis. The goal of this program was to recreate Samuel Karlin's anaylsis of anomalous gene clusters detection and pathogenicity islands."
 - project:
   title: '<h5>Cluster Analysis | BNFO 601. Integrated Bioinformatics</h5>'
   tagline: "The program used in our analysis was developed in Python. Based on user preference, our algorithm implements Pearson’s Correlation Coefficient, or Euclidean distance as measures for grouping genes. The program is capable of implementing average linkage clustering, complete linkage clustering, and single linkage clustering. At the end of the implementation one root node contains all the subtrees, which contains all the gene pairs. "
 - project:
   title: '<h5>Protein Threading | BNFO 601. Integrated Bioinformatics</h5>'
-  tagline: "This project demonstrates proficient python skills that include object oriented programming, logic statements, and file handling. The goal of this project was to determine the most conserved regions of DNA gyrase inhibitors and determine what three amino acids are conserved of that region."
+  tagline: "This project demonstrates proficient Python skills that include object oriented programming, logic statements, and file handling. The goal of this project was to determine the most conserved regions of DNA gyrase inhibitors and determine what three amino acids are conserved of that region."
 - project:
   title: '<h5>Functional Annotation of Phage Proteins | MEDC 670. Advanced Molecular Modeling</h5>'
   tagline: 'To discover previously unknown phage protein functions there are several techniques that were implemented: identification of homologs within protein domains, and prediction of protein folding to study their effects on the host. SYBYL-X, Blast P, HHpred, Clustal and MODELLER5 was used to study homology and predict protein folding. After modeling normalized dope scores were used to access the homology models.<a href="https://wiki.vcu.edu/display/phagelab/Functional+Annotation+Wiki" target="https://wiki.vcu.edu/display/phagelab/Functional+Annotation+Wiki">Project can be viewed here</a>'
